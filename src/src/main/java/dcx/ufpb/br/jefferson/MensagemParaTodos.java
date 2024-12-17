@@ -1,4 +1,4 @@
-package org.example;
+package dcx.ufpb.br.jefferson;
 
 public class MensagemParaTodos {
 }
